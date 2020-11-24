@@ -1,5 +1,5 @@
 # Driving-Car-Using-Gesture-Control
-> In thin project we will drive a car in game using gesture control.
+> In this project we will drive a car in game using gesture control.
 
 ---
 
