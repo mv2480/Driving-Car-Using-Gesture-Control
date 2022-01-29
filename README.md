@@ -13,7 +13,9 @@ You're sections headers will be used to reference location of destination.
 
 ---
 ## Description
-In this project we will first detect the color of the pen that we are using act as steering wheel using masking technique. Then we will draw a line between two points an calculate the distance between them for forward and backward motion and angle between them for right and left.#### Technologies
+In this project we will first detect the color of the pen that we are using act as steering wheel using masking technique. Then we will draw a line between two points an calculate the distance between them for forward and backward motion and angle between them for right and left.
+
+#### Technologies
 
 - Python
 - Open CV
